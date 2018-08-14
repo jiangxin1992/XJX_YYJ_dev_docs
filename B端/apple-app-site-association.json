@@ -1,0 +1,19 @@
+{
+	"applinks": {
+		"apps": ["YCO DESIGNER","YCO BUYER","YCO"],
+		"details": [
+                {
+			"appID": "86BC6SR69M.com.yunejian.yunejianDesigner",
+			"paths": ["*"]
+		}, 
+                {
+			"appID": "86BC6SR69M.com.yunejian.yunejianBuyer",
+			"paths": ["*"]
+		}, 
+                {
+			"appID": "86BC6SR69M.com.yunejian.yunejian",
+			"paths": ["*"]
+		}
+            ]
+	}
+}
